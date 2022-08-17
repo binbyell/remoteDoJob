@@ -1,0 +1,11 @@
+
+error: 20220714  09:50
+	- list index out of range -
+error: 20220714  10:50
+	- list index out of range -
+error: 20220714  11:50
+	- list index out of range -
+error: 20220714  12:50
+	- list index out of range -
+error: 20220714  13:50
+	- list index out of range -

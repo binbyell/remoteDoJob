@@ -1,0 +1,9 @@
+
+error: 20220715  16:55
+	- unsupported operand type(s) for -: 'int' and 'str' -
+error: 20220715  16:57
+	- list index out of range -
+error: 20220715  17:02
+	- list index out of range -
+error: 20220715  17:03
+	- list index out of range -

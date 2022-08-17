@@ -1,0 +1,11 @@
+
+error: 20220510  13:42
+	- '<' not supported between instances of 'str' and 'int' -
+error: 20220510  13:42
+	- '<' not supported between instances of 'str' and 'int' -
+error: 20220510  13:43
+	- '<' not supported between instances of 'str' and 'int' -
+error: 20220510  13:44
+	- '<' not supported between instances of 'str' and 'int' -
+error: 20220510  13:50
+	- '<' not supported between instances of 'str' and 'int' -

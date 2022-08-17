@@ -1,0 +1,31 @@
+DC10_LMCS_CA		중하층운량		o
+TD			이슬점온도		o
+VS			시정			o
+M0_3_TE			30cm지중온도		o
+HM			습도			o
+TM			시간			o
+RN			강수량			o
+TS			지면온도			o
+
+STN_ID			지점 번호		o
+
+M0_05_TE		5cm지중온도		o
+ICSR_QCFLG		일사? - icsr		?
+CLFM_ABBR_CD		운형			o
+M0_2_TE			20cm지중온도		o
+TA			기온			o
+WS			풍속			o
+RNUM			목록순서			o
+STN_NM			목록이름			o
+LCS_CH			최저운고			o
+SS_QCFLG		일조품질검사플래그	o
+PV			증기압			o
+DC10_TCA		전운량	
+WD	
+DMST_MTPH_NO	
+PS	
+M0_1_TE	
+PA	
+SS	
+ICSR	
+RN_QCFLG
